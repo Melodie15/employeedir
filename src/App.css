@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.App-header {
+  background-color: #28e7ce;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+.Nav {
+  width: 100%;
+  height: 200px;
+  background-color: #5147a5;
+  color: white;
+  font-size: 30px;
+  font-style: bold;
+  padding: 30px;
+
+}
+
