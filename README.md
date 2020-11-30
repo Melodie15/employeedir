@@ -1,6 +1,8 @@
 # Employee Directory
 
-<img src="" alt="project image">
+<img src="projectscreenshot1.png" alt="project image">
+<img src="projectscreenshot2.png" alt="project image">
+<img src="projectscreenshot3.png" alt="project image">
 
 > AS a user
   I WANT to be able to view my entire employee directory at once so that I have quick access to their information.
@@ -24,6 +26,7 @@ An employee or manager would benefit greatly from being able to view non-sensiti
 ### Technologies
 
 - React.js
+- Json
 - Node.js
 - JavaScript
 - HTML
@@ -45,5 +48,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Fatim Robbins
 fmsis@hotmail.com
-Github Link - https://melodie15.github.io/employeedirectory/
+Github Link - https://melodie15.github.io/employeedir/
 
